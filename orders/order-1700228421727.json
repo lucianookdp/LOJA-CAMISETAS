@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": 7,
+      "title": "CLASSIC CREWNECK",
+      "price": 48.99,
+      "image": "https://img01.ztat.net/article/spp-media-p1/10cea44041564f81ac585fc6c8978907/c4c32dbc45dd4dbc9d15087c846538f2.jpg?imwidth=1800",
+      "quantity": 2
+    },
+    {
+      "id": 5,
+      "title": "Champion BASIC",
+      "price": 48.99,
+      "image": "https://img01.ztat.net/article/spp-media-p1/7067458719b744fe81ffee62d3d0b912/abad421e7d8e47f08a2abc1c6ffe07dc.jpg?imwidth=1800",
+      "quantity": 2
+    }
+  ]
+}

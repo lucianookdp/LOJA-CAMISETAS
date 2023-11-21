@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 4,
+      "title": "Camisa Athletico Paranaense III",
+      "price": 249.9,
+      "image": "https://static3.tcdn.com.br/img/img_prod/311840/camisa_umbro_athletico_paranaense_iii_2023_libertadores_125460_1_8b996aebe7ed980f427e2a5bf0465976.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "title": "Camisa Arsenal I",
+      "price": 349.9,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7dbf2ba45c1e4207a1fdae1900c6b6bd_9366/Camisa_1_Arsenal_22-23_Vermelho_H35903_21_model.jpg",
+      "quantity": 1
+    }
+  ],
+  "username": "hen"
+}

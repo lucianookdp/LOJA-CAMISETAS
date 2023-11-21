@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "title": "Camisa Adidas Flamengo II",
+      "price": 295,
+      "image": "https://static3.tcdn.com.br/img/img_prod/311840/camisa_adidas_flamengo_ii_2023_114362_1_43149233e98369bbfb4f90a9c9f46664.jpg",
+      "quantity": 4
+    },
+    {
+      "id": 1,
+      "title": "Camisa Adidas Flamengo I",
+      "price": 264.9,
+      "image": "https://static3.tcdn.com.br/img/img_prod/311840/camisa_adidas_flamengo_i_2023_114358_1_d8763bdea9e32312aea69b5ddbaee0e8.jpg",
+      "quantity": 2
+    }
+  ],
+  "username": "hen"
+}

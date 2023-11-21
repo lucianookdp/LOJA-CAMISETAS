@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carrinho</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+
+    <header>
+
+      <div class="nav container">
+
+        <i class="bx bx-menu" id="menu-icon"></i>
+
+        <a href="main.html" class="logo">CampoFut</a>
+
+        <div class="navbar">
+          <a href="main.html#br" class="nav-link">Brasileiros</a>
+          <a href="main.html#int" class="nav-link">Internacionais</a>
+          <a href="main.html#sel" class="nav-link">Seleções</a>
+        </div>
+        
+
+        <a href="cart.html">
+          <i class="bx bx-shopping-bag" id="cart-icon" data-quantity="0"></i>
+        </a>
+      
+      </div>
+    
+    </header>
+
+    <section class="cart-container container">
+      <a href="main.html" class="back-homepage">
+        <i class="bx bx-chevron-left"></i>
+        <span>Voltar ao Início</span>
+      </a>
+      <h2 class="cart-s-title">Carrinho</h2>
+      <div class="cart-box">
+        <div class="cart-data">
+          <div id="cartItems"></div>
+        </div>
+        <div class="cart-t">
+          <div id="cartTotal"></div>
+          <a href="#" class="checkout-btn">Confirmar Compra</a>
+        </div>
+      </div>
+    </section>
+
+    <script src="js/main.js"></script>
+    <script src="js/cart.js"></script>
+  </body>
+</html>
